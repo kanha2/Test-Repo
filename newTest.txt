@@ -1,1 +1,2 @@
 -This is teh new text file created in local.
+-git commit from remote
